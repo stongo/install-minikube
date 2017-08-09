@@ -1,0 +1,10 @@
+version: 2
+jobs:
+  build:
+    machine:
+      enabled: true
+    working_directory: /home/circleci/install-minikube
+    steps:
+      - checkout
+      - run:
+          command: ./install-minikube

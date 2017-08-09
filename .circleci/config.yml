@@ -7,4 +7,4 @@ jobs:
     steps:
       - checkout
       - run:
-          command: ./install-minikube
+          command: ./install-minikube.sh

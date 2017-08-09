@@ -1,4 +1,4 @@
-# Circle Minikube Install
+# CircleCI 2.0 Minikube Install
 
 [![CircleCI](https://circleci.com/gh/stongo/install-minikube.svg?style=svg)](https://circleci.com/gh/stongo/install-minikube)
 
